@@ -203,3 +203,7 @@ La aplicación implementa:
 MIT (ver LICENSE en openai-realtime-console/)
 
 
+
+## 🤖 Hardware (Robot Físico)
+El proyecto incluye ahora el objetivo de construir un cuerpo físico impreso en 3D para Eve. 
+Para ver la lista de materiales, motores (MG996R) y controladores, consulta el documento [HARDWARE.md](./HARDWARE.md).
